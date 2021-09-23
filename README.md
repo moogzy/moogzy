@@ -37,5 +37,3 @@ More tools will be added in due course.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moogzy&hide=html,css&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=moogzy&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Adrian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moogzy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
