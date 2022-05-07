@@ -27,6 +27,7 @@ This is not an exhaustive list, only what came to my mind when writing this prof
 🧰 Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="Python Logo" width="50" height="50"/>
+<img src="https://avatars.githubusercontent.com/u/15859888" alt="Helm Logo" width="50" height="50"/>
 
 More tools will be added in due course.
 
