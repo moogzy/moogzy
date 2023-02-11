@@ -17,10 +17,10 @@
 👯 I’m looking to collaborate on projects that fit any of the following themes:
 
 * Network Operating Systems (e.g protocol applications, security features).
-* Network operations and management toolsets.
+* Network Operations and Automation.
 * Declarative configuration management tools.
 
-This is not an exhaustive list, only what came to my mind when writing this profile. I expect this to change as I remember to add new items.... :)
+However, I tend to dip my fingers into anything interesting and especially if I uncover a bug!
 
 ---
 
