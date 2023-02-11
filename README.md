@@ -10,7 +10,7 @@
 
 ---
 
-😄 Pronouns: he, him, they
+😄 Pronouns: he, him, his
 
 ---
 
